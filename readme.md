@@ -16,7 +16,7 @@ To run the code, simply open the HTML file in a web browser. The CSS and JavaScr
 ## Screenshot
 
 ![Twitter Homepage Clone Screenshot](./img/screenshot.png)
-
+- Works exceptionally good on a desktop layout 
 ## Technologies Used
 
 - HTML
